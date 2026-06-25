@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import AddBudget from './components/AddBudget.jsx';
-import EditExp from './components/editExp';
+import EditExp from './components/EditExp.jsx';
 import AddExp from './components/AddExpense.jsx';
 import search from './assets/search-icon.png';
 import travel from './assets/travel-icon.png';
@@ -9,7 +9,7 @@ import health from './assets/health-icon.png';
 import grocery from './assets/grocery-icon.png';
 import food from './assets/food-icon.png';
 import img from './assets/img.png';
-import Card from './components/card';
+import Card from './components/Card.jsx';
 import CategoryButton from "./components/Buttons.jsx";
 import Charts from './components/Charts';
 import Header from './components/Header.jsx';
